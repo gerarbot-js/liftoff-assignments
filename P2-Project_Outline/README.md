@@ -13,7 +13,7 @@ Borne from two separate ideas about making mental healthcare easier to find for 
 **User Login:** Users will be able to create accounts and login to the app. Each user will have a unique landing page.
 **Search:** Users will be able to search for therapists by specialty, proximity, availability, price, and rating.
 **Map:** Users will be able to view a map that shows the location of any therapist that matched their search criteria.
-**Favorites List:** Users will be able to view any search results that they flagged in one location.
+**Favorites List:** Users will be able to view any search results that they flagged in one location. Results can be added to or deleted from this list at any time.
 **Spanish/English Toggle:** Users will be able to switch between using the app in English and Spanish.
 
 
