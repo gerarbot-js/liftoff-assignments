@@ -18,16 +18,16 @@ Spanish/English Toggle: Users will be able to switch between using the app in En
 
 
 ### Technologies
-Java
-SpringBoot
-Bootstrap
-MySQL
-Hibernate
+Java,
+SpringBoot,
+Bootstrap,
+MySQL,
+Hibernate,
 Thymeleaf templates
 
 ### What I'll Have to Learn
-API use
-Implementing Google Maps into my own app
+API use,
+Implementing Google Maps into my own app,
 A way to support Spanish/English toggling on the app
 
 ### Project Tracker
