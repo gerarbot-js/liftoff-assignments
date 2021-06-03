@@ -13,5 +13,4 @@ For this assignment you will need to upload your resume and provide links to you
 [My LinkedIn account](https://www.linkedin.com/in/gerardo-delgado-a8251946/)
 
 ### Resume
-
-**Will use alternate way to submit resume to my mentor.**
+[Resume - Gerardo Delgado](https://github.com/gerarbot-js/liftoff-assignments/files/6594717/Resume.-.Gerardo.Delgado.pdf)
